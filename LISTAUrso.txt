@@ -42,9 +42,5 @@ https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8?sd=10&reb
 https://geralorigin.eu-central-1.edge.mycdn.live/live/globorj/video.m3u8?md5=GTp70WLeUCeLFINwq5i6Zg&expires=1616814386
 
 
-#EXTINF:-1 tvg-logo="https://tiosamnews1.files.wordpress.com/2009/05/logobandtopcinetsn.jpg" group-title="Tv Aberta" ,Sbt
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1616800225/ei/gRVeYKSqKpWkxATMx4GQDg/ip/2804%3A56c%3Ad515%3Afd00%3Ae91a%3Aa243%3A7154%3A410/id/JhjpSqpdi7E.1/source/yt_live_broadcast/requiressl/yes/tx/24005209/txs/24005203%2C24005204%2C24005205%2C24005206%2C24005207%2C24005208%2C24005209/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgHX5poR69OCz__qfhbbUGPwCYjJw3N23mz2TI8rs_W5QCIQCnQ48mXXqJfVwSUwICGGY1hqPFyWyQ7iMysftfpXWi0g%3D%3D/file/index.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://tiosamnews1.files.wordpress.com/2009/05/logobandtopcinetsn.jpg" group-title="Infantil" ,Cartoon Network
 https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/cartoon.m3u8?mu3zAQc9HC3GbwJq=S9nTYSpFbzptVJ0YvAQ-wA&3U1G7qaTxrPbalZnEx=1616798780
