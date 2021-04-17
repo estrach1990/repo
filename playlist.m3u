@@ -13,8 +13,30 @@ http://pfsv.io:80/Fernando/102030/352
 #EXTINF:-1 tvg-logo="https://tiosamnews1.files.wordpress.com/2009/05/logobandtopcinetsn.jpg" group-title="Tv Aberta" ,Globo Sp
 http://pfsv.io:80/Fernando/102030/354
 
-#EXTINF:-1 tvg-logo="https://tiosamnews1.files.wordpress.com/2009/05/logobandtopcinetsn.jpg" group-title="Tv Aberta" ,Record Rj
-https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://tiosamnews1.files.wordpress.com/2009/05/logobandtopcinetsn.jpg" group-title="Jujutsu Kaisen Pt-Br" ,Ep1
+https://www.animeshd.online/animes/jujutsuDub/01-hd.mp4
 
-#EXTINF:-1 tvg-logo="https://tiosamnews1.files.wordpress.com/2009/05/logobandtopcinetsn.jpg" group-title="Tv Aberta" ,Record Rj
-https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://tiosamnews1.files.wordpress.com/2009/05/logobandtopcinetsn.jpg" group-title="Jujutsu Kaisen Pt-Br" ,Ep2
+https://www.animeshd.online/animes/jujutsuDub/02-hd.mp4
+
+#EXTINF:-1 tvg-logo="https://tiosamnews1.files.wordpress.com/2009/05/logobandtopcinetsn.jpg" group-title="Jujutsu Kaisen Pt-Br" ,Ep3
+https://www.animeshd.online/animes/jujutsuDub/03-hd.mp4
+
+#EXTINF:-1 tvg-logo="https://tiosamnews1.files.wordpress.com/2009/05/logobandtopcinetsn.jpg" group-title="Jujutsu Kaisen Pt-Br" ,Ep4
+https://www.animeshd.online/animes/jujutsuDub/04-hd.mp4
+
+#EXTINF:-1 tvg-logo="https://tiosamnews1.files.wordpress.com/2009/05/logobandtopcinetsn.jpg" group-title="Jujutsu Kaisen Pt-Br" ,Ep5
+https://www.animeshd.online/animes/jujutsuDub/05-hd.mp4
+
+#EXTINF:-1 tvg-logo="https://tiosamnews1.files.wordpress.com/2009/05/logobandtopcinetsn.jpg" group-title="Jujutsu Kaisen Pt-Br" ,Ep6
+https://www.animeshd.online/animes/jujutsuDub/06-hd.mp4
+
+#EXTINF:-1 tvg-logo="https://tiosamnews1.files.wordpress.com/2009/05/logobandtopcinetsn.jpg" group-title="Jujutsu Kaisen Pt-Br" ,Ep7
+https://www.animeshd.online/animes/jujutsuDub/07-hd.mp4
+
+
+#EXTINF:-1 tvg-logo="https://tiosamnews1.files.wordpress.com/2009/05/logobandtopcinetsn.jpg" group-title="Jujutsu Kaisen Pt-Br" ,Ep8
+https://www.animeshd.online/animes/jujutsuDub/08-hd.mp4
+
+#EXTINF:-1 tvg-logo="https://tiosamnews1.files.wordpress.com/2009/05/logobandtopcinetsn.jpg" group-title="Jujutsu Kaisen Pt-Br" ,Ep9
+https://www.animeshd.online/animes/jujutsuDub/09-hd.mp4
