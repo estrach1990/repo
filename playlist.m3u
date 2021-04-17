@@ -6,3 +6,15 @@ https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_720_av-p.m3u8?sd=10&re
 
 #EXTINF:-1 tvg-logo="https://tiosamnews1.files.wordpress.com/2009/05/logobandtopcinetsn.jpg" group-title="Tv Aberta" ,Record Rj
 https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="https://tiosamnews1.files.wordpress.com/2009/05/logobandtopcinetsn.jpg" group-title="Tv Aberta" ,Globo Rj
+http://pfsv.io:80/Fernando/102030/352
+
+#EXTINF:-1 tvg-logo="https://tiosamnews1.files.wordpress.com/2009/05/logobandtopcinetsn.jpg" group-title="Tv Aberta" ,Globo Sp
+http://pfsv.io:80/Fernando/102030/354
+
+#EXTINF:-1 tvg-logo="https://tiosamnews1.files.wordpress.com/2009/05/logobandtopcinetsn.jpg" group-title="Tv Aberta" ,Record Rj
+https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="https://tiosamnews1.files.wordpress.com/2009/05/logobandtopcinetsn.jpg" group-title="Tv Aberta" ,Record Rj
+https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8?sd=10&rebase=on
